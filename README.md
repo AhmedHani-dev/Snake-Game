@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game in Java with usage od OOP
+Snake Game in Java with usage of OOP
