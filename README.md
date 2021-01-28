@@ -1,2 +1,2 @@
 # Snake-Game
-Snake Game in Java with usage of OOP Principles
+Snake Game in Java for OOP Uni Class
